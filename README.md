@@ -60,7 +60,7 @@ Set up professional profiles on GitHub, LinkedIn, and Kaggle using my college em
 ### Task 3 — Coding & Collaboration Platforms
 Completed a beginner-level coding challenge on HackerRank to build familiarity with competitive programming platforms. Created a five-question Digital Literacy Awareness Quiz using Google Forms, linked to a Google Sheet for response tracking.
 
-**Quiz Link:** [Click here to take the Digital Literacy Awareness Quiz](https://forms.google.com) ← Replace with your actual link
+**Quiz Link:** [Click here to take the Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/1mwO7ZdOKBPE5FxTMM3UlAXX1Z7gdWDaeIzGcAtHlYAw/edit) 
 
 ### Task 4 — Email Etiquette & Social Media Guide
 Drafted two professional emails — one requesting an assignment extension from a professor, and one expressing interest in a summer internship. Also created a Social Media Do's and Don'ts checklist with 5 practices on each side for responsible online conduct as a college student.
